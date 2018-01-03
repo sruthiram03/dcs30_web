@@ -1,0 +1,20 @@
+.ptb20{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.mlr30{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.pt60{
+    padding-top: 60px;
+}
+.nopad{
+    padding: 0px;
+}
+.pb60{
+    padding-bottom: 60px;
+}
+.txt-cen{
+    text-align: center;
+}
